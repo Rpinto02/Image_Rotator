@@ -1,7 +1,7 @@
 # Image_Rotator
 
 ## Introduction
-This is 24hour challenge to create a CNN classificator using the CIFAR10-CNN model to classify images according to it's position (upright, rotated-left, rotated right and upside-down). As well as aditional code to rotate and save the images according to the prediction in the model.
+This is 24hour [challenge](https://gist.github.com/csaftoiu/9fccaf47fd8f96cd378afd8fdd0d63c1) to create a CNN classificator using the CIFAR10-CNN model to classify images according to it's position (upright, rotated-left, rotated right and upside-down). As well as aditional code to rotate and save the images according to the prediction in the model.
 
 Inside the Challenge.pdf you can find indepth details of my difficulties and solutions during this challenge.
 
@@ -24,6 +24,7 @@ Inside the Challenge.pdf you can find indepth details of my difficulties and sol
   * Due to file size limitations on github free the original data as well as respective folders can't be found in the repository. If you wish to replicate this, please contact me so I can send you the data.
   * You should replace the paths inisde the code with your own paths.
   * Furthermore the notebook initial code is to ilustrate the step by step I describe in the Challenge.pdf file.
+  * Aditionally there is a zip divided in four parts contaning the images rotated according to the prediction of model.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
